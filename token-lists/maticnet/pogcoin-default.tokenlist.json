@@ -1,0 +1,25 @@
+{
+    "name": "Pogcoin Token List",
+    "timestamp": "2021-06-02T15:29:09.544Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "pogcoin",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Pogcoin",
+        "address": "0xe9124da8d008774283467b2d618624d287de0339",
+        "symbol": "$POG",
+        "decimals": 2,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
+      }
+    ]
+  }
